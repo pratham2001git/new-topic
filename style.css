@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body,
+html {
+    height: 100%;
+    width: 100%;
+}
+
+.background-image {
+    height: 100%;
+    width: 100%;
+    background-image: url(bike.jpg);
+    background-size: cover;
+
+
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+h1{
+    margin-top:auto;
+    color: aqua;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
